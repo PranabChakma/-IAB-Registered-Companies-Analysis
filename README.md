@@ -24,6 +24,11 @@ Here is the raw and cleaned dataset of IAB registered companies analyzed here to
 
 [Click here](https://docs.google.com/spreadsheets/d/1_w18hvgmYBgOP8AOF_1Y--ZPzKjoTFeJ8qlcsp77KjU/edit?gid=1295042783#gid=1295042783)
 
+## Report
+Here is the report on this IAB Registered Companies Analysis
+[IAB Architectural Firm Analysis Report.pdf](report/IAB Architectural Firm Analysis.pdf)
+
+
 ## Skills Developed
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
