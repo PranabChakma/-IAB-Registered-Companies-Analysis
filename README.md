@@ -21,6 +21,7 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 
 ## Dataset
 The raw dataset of IAB registered companies analyzed here to extract insight
+
 ![Click here](data/IAB Registered Companies Raw Data.pdf)
 
 ## Skills Developed
