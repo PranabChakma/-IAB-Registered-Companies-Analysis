@@ -27,7 +27,7 @@ Here is the raw and cleaned dataset of IAB registered companies analyzed here to
 ## Report
 Here is the report on this IAB Registered Companies Analysis
 
-[View Analytical Report](./IAB_Registered_Companies_Analysis_Report)
+[View Analytical Report](./IAB_Registered_Companies_Analysis_Report.pdf)
 
 
 ## Skills Developed
