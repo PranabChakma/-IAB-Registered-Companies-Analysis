@@ -19,12 +19,6 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 ## Interactive Dashboard
 [Click here to view the live dashboard](https://lookerstudio.google.com/u/0/reporting/26c30485-6332-4815-b66b-2a3740cd0227/page/7tJoF)
 
-## Dashboard Preview
-[Dashboard Preview]()
-
-## Static Report
-[Click here to view the desriptive report (PDF)(IAB-Companies-Analysis/IAB Architectural Firm Dashboard Report.pdf)
-
 ## Dataset
 The raw dataset of IAB registered companies analyzed here to extract insight
 
