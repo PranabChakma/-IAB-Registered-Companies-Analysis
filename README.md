@@ -23,7 +23,7 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 [Dashboard Preview]()
 
 ## Static Report
-[Click here to view the desriptive report (PDF)(https://github.com/PranabChakma/-IAB-Registered-Companies-Analysis/blob/main/IAB-Companies-Analysis/IAB%20Architectural%20Firm%20Dashboard%20Report.pdf)
+[Click here to view the desriptive report (PDF)(IAB-Companies-Analysis/IAB Architectural Firm Dashboard Report.pdf)
 
 ## Dataset
 The raw dataset of IAB registered companies analyzed here to extract insight
