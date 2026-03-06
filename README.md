@@ -20,10 +20,9 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 [Click here to view the live dashboard](https://lookerstudio.google.com/u/0/reporting/26c30485-6332-4815-b66b-2a3740cd0227/page/7tJoF)
 
 ## Dataset
-The raw dataset of IAB registered companies analyzed here to extract insight
-
+Here is the raw and cleaned dataset of IAB registered companies analyzed here to extract insight
 ![Click here](data/IAB Registered Companies Raw Data.pdf)
-
+[Click here](https://docs.google.com/spreadsheets/d/1_w18hvgmYBgOP8AOF_1Y--ZPzKjoTFeJ8qlcsp77KjU/edit?gid=1295042783#gid=1295042783)
 ## Skills Developed
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
