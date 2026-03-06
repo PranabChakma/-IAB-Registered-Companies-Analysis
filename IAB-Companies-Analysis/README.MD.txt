@@ -31,7 +31,7 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 ---
 
 ## 📑 Static Report
-👉 [Click here to view the descriptive report (PDF)](report/IAB_Companies_Analysis_Report.pdf)
+👉 [Click here to view the descriptive report (PDF)](IAB-Companies-Analysis/IAB Architectural Firm Dashboard Report.pdf)
 
 ---
 
@@ -45,5 +45,6 @@ Dataset includes information on companies registered with the Institute of Archi
 - Exploratory Data Analysis (EDA)  
 - Dashboard Design  
 - Reporting & Documentation  
+
 
 
