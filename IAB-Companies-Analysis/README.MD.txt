@@ -17,7 +17,7 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 
 ## 🛠 Tools & Technologies
 - Excel (Data aggregation & cleaning)
-- Looker Studio / Tableau (Interactive dashboard)
+- Looker Studio
 - Data Visualization & Reporting
 
 ---
@@ -45,3 +45,4 @@ Dataset includes information on companies registered with the Institute of Archi
 - Exploratory Data Analysis (EDA)  
 - Dashboard Design  
 - Reporting & Documentation  
+
