@@ -12,7 +12,7 @@ The project covers data aggregation, cleaning, analysis, reporting, and the deve
 - Create static and interactive reports for decision-making
 
 ## Tools & Technologies
-- Excel (Data aggregation & cleaning)
+- Goolgle Sheet (Data aggregation & cleaning)
 - Looker Studio
 - Data Visualization & Reporting
 
